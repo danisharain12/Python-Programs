@@ -1,14 +1,10 @@
 **Write a Python function to check if a given integer is a palindrome.**
-
 - A palindrome number reads the same forward and backward.
-
 - Example:
 ✅ is_palindrome(121) → True
 ✅ is_palindrome(-121) → False (Negative numbers are not palindromes)
 ✅ is_palindrome(123) → False
-
 - Constraints:
-
 - Do not convert the number into a string.
 - Your solution should work for both positive and negative numbers.
 ---------------------------------------------------------------------------------
