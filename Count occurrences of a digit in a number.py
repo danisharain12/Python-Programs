@@ -1,10 +1,8 @@
-**Count occurrences of a digit in a number**
-
-- Input:
+Count occurrences of a digit in a number
+Input:
     - Enter a number: 1123581321
     - Enter the digit to count: 1
-
-- Output:
+Output:
     - The digit 1 appears 4 times in the number 1123581321.
 ------------------------------------------------------------
 
