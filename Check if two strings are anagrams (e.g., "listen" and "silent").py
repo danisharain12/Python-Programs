@@ -6,8 +6,8 @@ Check if two strings are anagrams (e.g., "listen" and "silent")
 --------------------------------------------------------------------
 
   def anagrams():
-    a = input('Enter first string').lower()
-    b = input('Enter second string').lower()
+    a = input('Enter a first string').lower()
+    b = input('Enter a second string').lower()
 
     if sorted(a) == sorted(b):
         print(f"{a} and {b} are anagrams")
