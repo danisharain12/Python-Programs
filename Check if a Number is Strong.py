@@ -1,10 +1,8 @@
-**Check if a Number is Strong**
-
-**A strong number is a number where the sum of the factorial of its digits is equal to the number itself.**
-
-✅ Example:
-- 145 → 1!+4!+5!=1+24+120=145 ✅ Strong Number
-- 123 → 1!+2!+3!=1+2+6=9 ❌ Not a Strong Number
+# Check if a Number is Strong
+# A strong number is a number where the sum of the factorial of its digits is equal to the number itself.
+# Example:
+# 145 → 1!+4!+5!=1+24+120=145 ✅ Strong Number
+# 123 → 1!+2!+3!=1+2+6=9 ❌ Not a Strong Number
 ---------------------------------------------------------------------------------------------------------------
 
 def strong_num():
